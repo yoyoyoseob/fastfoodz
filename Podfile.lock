@@ -1,0 +1,52 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Anchorage (4.4.0)
+  - BonMot (5.5.1)
+  - RxAlamofire (5.0.0):
+    - RxAlamofire/Core (= 5.0.0)
+  - RxAlamofire/Core (5.0.0):
+    - Alamofire (~> 4.8)
+    - RxSwift (~> 5.0)
+  - RxCocoa (5.0.1):
+    - RxRelay (~> 5)
+    - RxSwift (~> 5)
+  - RxRelay (5.1.1):
+    - RxSwift (~> 5)
+  - RxSwift (5.0.1)
+  - SDWebImage (5.6.1):
+    - SDWebImage/Core (= 5.6.1)
+  - SDWebImage/Core (5.6.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.8.2)
+  - Anchorage (~> 4.4.0)
+  - BonMot (~> 5.5.1)
+  - RxAlamofire (~> 5.0.0)
+  - RxCocoa (~> 5.0.0)
+  - RxSwift (~> 5.0.0)
+  - SDWebImage (~> 5.6.1)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Anchorage
+    - BonMot
+    - RxAlamofire
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Anchorage: d7f02c4f9425b537053237aab11ae97e59b55f36
+  BonMot: 0d179476725af81f622a6d9f660f43048070016a
+  RxAlamofire: e7875a012aff55345672d0f70a2a9cd6aeb0f211
+  RxCocoa: e741b9749968e8a143e2b787f1dfbff2b63d0a5c
+  RxRelay: d77f7d771495f43c556cbc43eebd1bb54d01e8e9
+  RxSwift: e2dc62b366a3adf6a0be44ba9f405efd4c94e0c4
+  SDWebImage: 7edb9c3ea661e77a66661f7f044de8c1b55d1120
+
+PODFILE CHECKSUM: 9118d617f8acb5da67e3f8962ef521edd5e4be3b
+
+COCOAPODS: 1.9.1
